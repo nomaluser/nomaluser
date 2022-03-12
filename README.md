@@ -11,4 +11,4 @@
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
 </p>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nomaluser&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></p>
-<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
+<img align='center' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
