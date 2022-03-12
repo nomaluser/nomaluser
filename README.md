@@ -6,9 +6,9 @@
    <h2 align="center">📫 How to reach me</h2> 
   <p>2500591482@qq.com or</p> <a href="https://whgal.top/">My Homepage</a>
   <!-- 浏览量和天气 -->
- <p>
-  <a href="https://github.com/nomaluser"><img align="center" src="https://count.getloli.com/get/@:caoyus"></a>
-  <img align="center" src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
+ <p align="center">
+  <a href="https://github.com/nomaluser"><img src="https://count.getloli.com/get/@:caoyus"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
  </p>
  
 <h3 align="center">Languages and Tools:</h3>
