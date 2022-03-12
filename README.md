@@ -10,5 +10,5 @@
   <a href="https://whgal.top/"><img src="https://count.getloli.com/get/@:nomaluser"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
 </p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nomaluser&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nomaluser&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
