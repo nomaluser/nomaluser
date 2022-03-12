@@ -3,7 +3,7 @@
   <h2>👋 Hi,there I’m Winter Heart</h2>
 <p align="center">-👀I’m interested in programming<br>
   🌱I’m currently learning python,cyber security,html,css</p>
-   <h2>📫 How to reach me</h2> 
+   <h2 align="center">📫 How to reach me</h2> 
   <p>2500591482@qq.com or</p> <a href="https://whgal.top/">My Homepage</a>
   <!-- 浏览量和天气 -->
  <p>
