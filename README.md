@@ -1,6 +1,6 @@
 - <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Profile" />
-  <h2>👋 Hi,there I’m Winter Heart</h2><br>
+  <h2>👋 Hi,there I’m Winter Heart</h2>
 <p align="center">-👀I’m interested in programming<br>
   🌱I’m currently learning python,cyber security,html,css</p>
    <h2 align="center">📫 How to reach me</h2> 
