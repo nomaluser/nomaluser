@@ -7,7 +7,7 @@
    <h2 align="center">📫 How to reach me</h2> 
   <p align="center">2500591482@qq.com or <a href="https://whgal.top/">My Homepage</a><br>mysterious number and the weather of your city</p>
 <!-- 浏览量和天气 -->
-<p>
+<p align="center">
   <a href="https://count.caoyus.com/"><img src="https://count.getloli.com/get/@:caoyus"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
 </p>
