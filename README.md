@@ -7,7 +7,7 @@
   <p align="center">2500591482@qq.com or <a href="https://whgal.top/">My Homepage</a><br>mysterious number and the weather of your city</p>
   <!-- 浏览量和天气 -->
  <p align="center">
-  <a href="https://github.com/nomaluser"><img src="https://count.getloli.com/get/@:caoyus"></a>
+  <a href="https://github.com/nomaluser"><img src="https://count.getloli.com/get/@:nomaluser"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
  </p>
  
