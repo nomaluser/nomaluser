@@ -7,7 +7,7 @@
   <p>2500591482@qq.com or</p> <a href="https://whgal.top/">My Homepage</a>
   <!-- 浏览量和天气 -->
  <p>
-  <a href="https://count.caoyus.com/"><img src="https://count.getloli.com/get/@:caoyus"></a>
+  <a href="https://github.com/nomaluser"><img src="https://count.getloli.com/get/@:caoyus"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
  </p>
  
