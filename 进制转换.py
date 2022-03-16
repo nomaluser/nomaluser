@@ -14,6 +14,3 @@ while True:
         print('转化成功，结果为{}'.format(int(num4)))
     else:
         print("请输入正确的代号")
-
-
-
